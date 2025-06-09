@@ -36,3 +36,5 @@ LED 9 - Glows for 2 points scored that round. Changes color based on round. Blue
 LED 1-8 - Glow white from 1 to 8 to display the count of the guessed letter values.
 
 LED 0-9 - Spins red if incorrect answer. Spins green if you win.
+
+Serial Monitor - Displays time, level, and win or loss status.
